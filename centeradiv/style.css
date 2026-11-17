@@ -1,8 +1,11 @@
 body {
   display: flex;
   align-items: center;
+  /* top to bottom */
   justify-content: center;
+  /* left to right  */
   min-height: 100vh;
+  /* //The browser doesn't need to make the body 800px tall just because the screen is 800px tall. */
 
 }
 
