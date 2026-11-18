@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+.rectangle {
+  background-color: pink;
+  width: 500px;
+  aspect-ratio: 1.69/1;
+}
